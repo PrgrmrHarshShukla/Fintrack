@@ -1,2 +1,2 @@
 # Fintrack
-This is a clone of a fully responsive landing page.
+This is a fully responsive clone of a static landing page.
